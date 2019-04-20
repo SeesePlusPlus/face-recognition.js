@@ -1,6 +1,6 @@
 {
   "name": "@video-face-recognition/face-recognition",
-  "version": "0.9.4-vfr.0",
+  "version": "0.9.4-vfr.1",
   "description": "Simple Node.js API for robust face detection and face recognition.",
   "keywords": [
     "face",
@@ -30,7 +30,7 @@
   },
   "gypfile": true,
   "dependencies": {
-    "@video-face-recognition/dlib-build": "^0.1.1-vfr.0",
+    "@video-face-recognition/dlib-build": "^0.1.1-vfr.1",
     "face-recognition-models": "0.0.0",
     "nan": "^2.7.0",
     "native-node-utils": "0.0.4"
